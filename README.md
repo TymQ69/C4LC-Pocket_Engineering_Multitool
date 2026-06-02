@@ -2,7 +2,7 @@
 
 An open-source, pocket-sized device featuring an OLED display, a 4x4 matrix keypad, and rotary encoders. 
 
-**The Origin Story & Vision:** Initially started as an RPN (Reverse Polish Notation) calculator, the project recently took a massive turn. To be brutally honest—I got tired of the high prices and bulkiness of standard oscilloscopes. Even the "compact" $100 models are still too big to comfortably carry around. 
+**The Origin Story & Vision:** Initially started as an RPN (Reverse Polish Notation) calculator, the project recently took a massive turn. To be brutally honest - I got tired of the high prices and bulkiness of standard oscilloscopes. Even the "compact" $100 models are still too big to comfortably carry around. 
 
 Because of that, the trajectory of this project shifted entirely. The new mission is to build the ultimate, hyper-compressed engineering multitool that nobody asked for, but every maker needs. My main focus is to squeeze maximum oscilloscope functionality into a pocket-sized form factor, and eventually add modules to replace a standard multimeter (voltage, current, and resistance measurements). 
 
